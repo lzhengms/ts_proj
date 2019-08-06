@@ -143,7 +143,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var React = __webpack_require__(/*! react */ "react");
 var ReactDOM = __webpack_require__(/*! react-dom */ "react-dom");
 var Hello_1 = __webpack_require__(/*! ./components/Hello */ "./components/Hello.tsx");
-ReactDOM.render(React.createElement(Hello_1.Hello, { compiler: 'TypeScript', framework: "React" }), document.getElementById('example'));
+ReactDOM.render(React.createElement(Hello_1.Hello, { compiler: 6, framework: "React" }), document.getElementById('example'));
 
 
 /***/ }),
